@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billythebean
-- 👀 I’m interested in ... learning C#/.Net and SQL. Later I want to learn Python
-- 🌱 I’m currently learning ... C#/.Net and SQL.
+- 👀 I’m interested in ... programming & reverse engineering
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
